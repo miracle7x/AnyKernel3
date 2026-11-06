@@ -1,5 +1,3 @@
-Like a star shining in the night.
------------------------------------
-Device: Redmi 4A ( rolex )
-By Hoshino Yoru | Yoru Prjkt
------------------------------------
+kernel: ast
+linux: 4.19
+devices: mi8953
