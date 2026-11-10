@@ -1,3 +1,8 @@
-kernel: perf
-linux: 4.19.325
-devices: mi a1 (tissot)
+=======================================
+    Kernel : Pearl 
+    Devices : Redmi 6/6A (Certus)    
+    Linux Version : 4.19.325    
+    Maintainer : Cappuccino   
+=======================================
+         AnyKernel3 by osm0sis        
+=======================================
