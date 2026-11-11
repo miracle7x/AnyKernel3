@@ -11,6 +11,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=cereus
 device.name2=cactus
+device.name3=certus
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
